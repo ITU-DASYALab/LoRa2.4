@@ -12,6 +12,8 @@ build a mockup satellite, place it some place far and high
 
 sending images over LoRa
 
+a 2.4 "beeper"  <== beacons
+
 ## chips, boards, components
 
 2 possible chips:
@@ -73,5 +75,27 @@ https://github.com/thingsat/tinygs_2g4station/blob/main/README.md
 
 
 ================================================================================================================================
+
+# Further reading
+
+https://pycubed.org
+
+TinyGS: https://tinygs.com/
+
+LoRa basics: lora-alliance https://lora-alliance.org/
+
+thethingsnetwork https://www.thethingsnetwork.org/docs/lorawan/
+
+wndw, the "green book" is about wi-fi, but provides some basics (antennas, free space loss, ..): https://wndw.net/book.html#readBook
+
+other keywords:
+
+Cubesat
+
+Canbus
+
+csp CUBESAT PROTOCOL
+
+
 
 
