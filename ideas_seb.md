@@ -34,16 +34,23 @@ https://www.banggood.com/LILYGO-T3S3-V1_0-ESP32-S3-LoRa-SX1262-or-SX1276-SX1280-
 
 ### amplifiers
 
+#### SMD chips - $1 range:
+
 33 dB -
 https://www.mouser.dk/ProductDetail/Skyworks-Solutions-Inc/SE2576L-R?qs=WMHGlxXAKT%252BgTam3WBvNxQ%3D%3D
 
 28 dB -
 https://www.mouser.dk/ProductDetail/Qorvo/RF5102TR7?qs=tkvX2tz6JTEeDHFjgybyMQ%3D%3D
+
+30 dB -
+
 https://www.mouser.dk/ProductDetail/Microchip-Technology/LX5518LQ-TR?qs=8oSzWg8cI46KfpA8algP0A%3D%3D
 
 
-big outdoor amps, up to 30 W -
+#### big outdoor amps, up to 30 W -
 https://www.gnswireless.com/product-category/products/wireless-amplifiers/2-4-ghz-amplifiers/outdoor-2-4-ghz-amplifiers/
+
+#### eval kits, with connectors and stuff
 
 analog devices, 20 dB -
 https://www.everythingrf.com/news/details/13094-analog-devices-introduces-usb-powered-2-4-ghz-rf-power-amplifier-evaluation-board
