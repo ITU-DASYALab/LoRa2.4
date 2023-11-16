@@ -9,6 +9,9 @@ build a mockup satellite, place it some place far and high
 	hookup a sx1280 to a toradex or such
 	t-beam 2.4
 
+
+sending images over LoRa
+
 ## chips, boards, components
 
 2 possible chips:
