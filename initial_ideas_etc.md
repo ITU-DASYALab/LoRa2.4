@@ -64,7 +64,7 @@ https://www.ti.com/product/CC2595
 
 
 
-## Grenoble Thingsat 2.4 mission, Sork-1 etc
+## Grenoble Thingsat 2.4 mission, Stork-1 etc
 
 very worth reading -
 
