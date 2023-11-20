@@ -86,6 +86,8 @@ https://www.hackster.io/news/the-can32-an-esp32-based-can-bus-board-af5c9e1bd8ec
 
 Janssen, T.; BniLam, N.; Aernouts, M.; Berkvens, R.; Weyn, M. LoRa 2.4 GHz Communication Link and Range. Sensors 2020, 20, 4366. https://doi.org/10.3390/s20164366 
 
+LoRa 2.4 GHz gateway with SX1280 - yocto branch - https://github.com/chirpstack/chirpstack-gateway-os/tree/v4_yocto
+
 https://pycubed.org
 
 TinyGS: https://tinygs.com/
