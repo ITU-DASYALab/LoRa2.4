@@ -77,8 +77,13 @@ https://github.com/thingsat/tinygs_2g4station/blob/main/README.md
 
 https://www.seeedstudio.com/LoRa-E5-CAN-FD-dev-kit-CANBUS-p-5398.html
 
-CAN32—an ESP32-Based CAN Bus Board - should work on a TTGO 2.4 ?
+CAN32—an ESP32-Based CAN Bus Board
 https://www.hackster.io/news/the-can32-an-esp32-based-can-bus-board-af5c9e1bd8ec
+
+Any ESP32 w additonal CANBUS Transceiver - - should work on a TTGO 2.4 ?
+https://www.circuitstate.com/tutorials/what-is-can-bus-how-to-use-can-interface-with-esp32-and-arduino/#ESP_CAN_Controller
+
+https://www.adafruit.com/product/5708
 
 ================================================================================================================================
 
@@ -105,6 +110,8 @@ Cubesat
 Canbus
 
 csp CUBESAT PROTOCOL
+
+LoRa & Doppler: https://ieeexplore.ieee.org/document/8723123
 
 
 
