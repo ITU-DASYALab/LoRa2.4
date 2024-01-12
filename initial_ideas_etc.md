@@ -111,7 +111,7 @@ Canbus
 
 csp CUBESAT PROTOCOL
 
-LoRa & Doppler: https://ieeexplore.ieee.org/document/8723123
+LoRa & Doppler: https://ieeexplore.ieee.org/document/8723123       https://oulurepo.oulu.fi/bitstream/handle/10024/47082/nbnfioulu-202401041067.pdf?sequence=1
 
 
 
