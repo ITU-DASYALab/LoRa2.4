@@ -86,6 +86,22 @@ https://www.circuitstate.com/tutorials/what-is-can-bus-how-to-use-can-interface-
 https://www.adafruit.com/product/5708
 
 ================================================================================================================================
+# 2.4 LoRa gear at the lab - status 20240123
+
+## LoRa modules:
+
+Ebyte E28 chips - https://www.amazon.com/Ebyte-%C3%89metteur-r%C3%A9cepteur-Bluetooth-E28-2G4M12S-%C3%A9metteur/dp/B07P2BZW5C
+RFSolutions Lambda chips - https://www.rfsolutions.co.uk/downloads/6245d8c44da69987DS-LAMBDA80-1.pdf
+
+## Complete Dev Boards:
+ESP32-S3 LoRa SX1280 2.4G Development Board
+https://www.lilygo.cc/products/t3s3-v1-0?_pos=1&_sid=d855268dc&_ss=r
+
+## Gateway:
+Semtech
+SX1280ZXXXXGW1
+LoRa® Reference Design for 2.4GHz Gateway Based on SX1280 - https://www.semtech.com/products/wireless-rf/lora-core/sx1280zxxxxgw1
+
 
 # Further reading
 
